@@ -1,6 +1,6 @@
 # nodejs-jwt-api-rest
 
-NodeJS Express JasonWebToken Api Rest
+NodeJS Express JsonWebToken Api Rest
 
 ## Getting Started
 
