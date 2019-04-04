@@ -17,7 +17,7 @@ NODE NPM MONGODB
 A step by step series of examples that tell you how to get a development env running
 
 ```
-git clone 
+git clone https://github.com/tebeck/nodejs-jwt-api-rest.git
 ```
 ```
 npm install
